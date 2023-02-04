@@ -8,5 +8,5 @@ More information about the creation of the corpus can be found [here](https://gi
 
 1. [Regression_Baselines.ipynb](https://github.com/ffedox/nlp/blob/main/Regression_Baselines.ipynb): rule-based, reproducible baselines for evaluating the models with R², MAE and RMSE.
 2. [Regression_with_CNNs.ipynb](https://github.com/ffedox/nlp/blob/main/Regression_with_CNNs.ipynb): two CNN models, one manually tuned and the other optimized automatically with [Keras Tuner](https://keras.io/keras_tuner/).
-3. [Regression_with_BERT.ipynb](https://github.com/ffedox/nlp/blob/main/Regression_with_BERT.ipynb): model based on Google's [BERT](https://en.wikipedia.org/wiki/BERT_(language_model).
+3. [Regression_with_BERT.ipynb](https://github.com/ffedox/nlp/blob/main/Regression_with_BERT.ipynb): model based on Google's [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)).
 4. [NLP_Report.pdf](https://github.com/ffedox/nlp/blob/main/NLP_Report.pdf): written report providing a detailed overview of the models and the obtained results.
