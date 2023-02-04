@@ -6,7 +6,7 @@ More information about the creation of the corpus can be found [here](https://gi
 
 ## Contents
 
-1. [Regression_Baselines.ipynb](https://github.com/ffedox/nlp/blob/main/Regression_Baselines.ipynb):
-2. [Regression_with_CNNs.ipynb](https://github.com/ffedox/nlp/blob/main/Regression_with_CNNs.ipynb):
+1. [Regression_Baselines.ipynb](https://github.com/ffedox/nlp/blob/main/Regression_Baselines.ipynb): rule-based, reproducible baselines for evaluating the models with R², MAE, RMSE.
+2. [Regression_with_CNNs.ipynb](https://github.com/ffedox/nlp/blob/main/Regression_with_CNNs.ipynb): 
 3. [Regression_with_BERT.ipynb](https://github.com/ffedox/nlp/blob/main/Regression_with_BERT.ipynb):
-4. [NLP_Report.pdf](https://github.com/ffedox/nlp/blob/main/NLP_Report.pdf):
+4. [NLP_Report.pdf](https://github.com/ffedox/nlp/blob/main/NLP_Report.pdf): written report providing a detailed overview of the models and the obtained results.
