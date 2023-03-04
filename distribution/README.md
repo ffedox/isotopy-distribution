@@ -4,5 +4,5 @@ Label distribution learning [(Geng, 2016)](https://arxiv.org/pdf/1408.6027.pdf) 
 
 ## Contents
 
-1. [bert_distrib_with_segments.ipynb](https://github.com/ffedox/nlp/blob/main/distribution/bert_distrib_with_segments.ipynb): label distribution learning at segment level with BERT.
-2. [bert_distrib_with_subtitles.ipynb](): label distribution learning at subtitle level with BERT.
+1. [bert_distrib_with_segments.ipynb](https://github.com/ffedox/nlp/blob/main/distribution/bert_distrib_with_segments.ipynb): LDL at segment level with BERT.
+2. [bert_distrib_with_subtitles.ipynb](): LDL at subtitle level with BERT.
